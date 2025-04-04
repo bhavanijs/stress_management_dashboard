@@ -15,5 +15,6 @@ This project is a Power BI dashboard designed to analyze and visualize factorsaf
 - Explored correlations between stress factors and CGPA to derive insights.
 - Structured visuals for clarity and user-friendly interaction.
 
-- Dashboard Interaction <a href="https://github.com/bhavanijs/stress_management_dashboard/blob/main/Mental_stress_Dashboard.pbix">View Dashboard</a>
+## Dashboard Interaction
+- <a href="https://github.com/bhavanijs/stress_management_dashboard/blob/main/Mental_stress_Dashboard.pbix">View Dashboard</a>
 
