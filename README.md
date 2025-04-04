@@ -2,4 +2,4 @@
 This project is a Power BI dashboard designed to analyze and visualize factors affecting student mental stress levels. It highlights patterns, correlations, and actionable insights to improve well-being and performance through interactive visuals.
 
 ## Datasets used
-- <a href="https://github.com/bhavanijs/stress_management_dashboard/blob/main/Mental_stress_Dashboard.pbix">Mental Stress Data</a>
+- <a href="https://github.com/bhavanijs/stress_management_dashboard/blob/main/Mental_stress_Dashboard.pbix">Mental Stress Data</
