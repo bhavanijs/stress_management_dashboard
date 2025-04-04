@@ -8,3 +8,9 @@ This project is a Power BI dashboard designed to analyze and visualize factors a
 - Visual analysis of stress factors affecting students.
 - Correlation insights between lifestyle factors and CGPA.
 - Interactive filters for detailed exploration.
+## Process 
+- Cleaned and standardized the dataset for analysis.
+- Imported the dataset into Power BI.
+- Created bar charts, scatter plots, pie charts, and line graphs with interactive slicers.
+- Explored correlations between stress factors and CGPA to derive insights.
+- Structured visuals for clarity and user-friendly interaction.
