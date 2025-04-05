@@ -1,4 +1,4 @@
-# Stress_Management_Dashboard
+# Stress_Management_PowerBI_Dashboard
 This project is a Power BI dashboard designed to analyze and visualize factorsaffecting student mental stress levels. It highlights patterns, correlations, and actionable insights to improve well-being and performance through interactive visuals.
 
 ## Datasets used
